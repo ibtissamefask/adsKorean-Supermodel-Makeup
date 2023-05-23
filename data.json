@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "yandex",
+    "adNetwork": "unity",
     "splashAdActive": true,
     "onbackAdActive": true,
     "admobBanner": "ca-app-pub-4821587016562862/8620947540",

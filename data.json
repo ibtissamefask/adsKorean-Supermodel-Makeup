@@ -1,6 +1,6 @@
 {
   "AdsController": {
-    "adNetwork": "unity",
+    "adNetwork": "applovin",
     "splashAdActive": true,
     "onbackAdActive": true,
     "admobBanner": "ca-app-pub-4821587016562862/8620947540",
@@ -10,7 +10,7 @@
     "applovinInterstitial": "510ceab14dd2b6b8",
     "applovinNative": "2f8d04f16aca2946",
     "unityGameId": "5287607",
-    "testMode": true,
+    "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android",
     "facebookBanner": "IMG_16_9_APP_INSTALL#262512586275912_262516602942177",
